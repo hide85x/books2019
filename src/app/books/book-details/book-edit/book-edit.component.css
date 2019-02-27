@@ -1,0 +1,14 @@
+#main {
+    margin-left:50px;
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    border-radius: 10px;
+    padding:13px
+}
+input {
+   margin-left: 10px
+}
+#radio {
+    appearance: checkbox;
+}

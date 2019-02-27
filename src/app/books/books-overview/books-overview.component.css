@@ -1,0 +1,22 @@
+.mainBooks {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin:0px 200px;
+    border: 1px dotted black;
+    border-radius: 30px
+    
+
+}
+
+a {
+    color:black
+}
+
+
+@media (max-width:1000px){
+    .mainBooks {
+        margin:0px 20px
+    }
+}
+
